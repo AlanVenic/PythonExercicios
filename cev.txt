@@ -1,0 +1,10 @@
+Alan;37
+Ester;34
+Gaby;40
+João;79
+Felipe;33
+Maria;70
+Sara;30
+Bruno;39
+Antônio;82
+Carla;12
